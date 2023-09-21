@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://10.182.0.4:9200"
+  username: "zhongwenqing99"
+  password: "zwq250527"
+
+gcs:
+  bucket: "zhongwenqing99-appstore-bucket1"
+
+token:
+  secret: "secret"
